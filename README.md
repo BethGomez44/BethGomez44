@@ -88,6 +88,6 @@ I’m a software engineer focused on frontend development, driven by a mission t
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=tuusuario&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BethGomez44&show_icons=true&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=BethGomez44&theme=radical" height="160"/>
 </p>
