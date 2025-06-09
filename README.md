@@ -82,7 +82,6 @@ I’m a software engineer focused on frontend development, driven by a mission t
 
 ### 📫 Let’s Connect
 
-- [🌐 Portfolio](https://tu-portfolio.com)
 - [💼 LinkedIn](https://www.linkedin.com/in/heidi-lizbeth-g%C3%B3mez-de-la-torre-34030720a/)
 - 📧 liz_gomez04@ciencias.unam.mx
 
