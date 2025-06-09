@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Heidi Lizbeth</h1>
+<h1 align="center">Hi there 👋 I'm Lizbeth</h1>
 
 <p align="center">
   👩‍💻 Frontend Software Engineer | Passionate about impactful UI development<br/>
